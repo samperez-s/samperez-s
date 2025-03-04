@@ -14,9 +14,6 @@
 
 👨‍💻 All of my projects are available [here](https://github.com/samperez-42/42-cursus)
 
-  [![samperez's 42 stats](https://badge.mediaplus.ma/binary/samperez?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
-
 - 📫 How to reach me **samuelperezsantiago12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
