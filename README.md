@@ -1,28 +1,44 @@
-<h1 align="center">Hi 👋, I'm Samuel Pérez Santiago</h1>
-<h3 align="center">A passionate junior developer from Málaga, Spain🇪🇸</h3>
+# Hi there, I'm Samuel Pérez Santiago 👋
 
-- 🔭 I’m currently studying in [42 Málaga](https://www.42malaga.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel%20Pérez%20Santiago-blue?logo=linkedin)]([https://linkedin.com](https://www.linkedin.com/in/samuel-perez-santiago/))
+[![Email](https://img.shields.io/badge/Email-samuelperezsantiago12%40gmail.com-red?logo=gmail)](mailto:samuelperezsantiago12@gmail.com)
+[![42 School](https://img.shields.io/badge/School-42%20Málaga-000000?logo=42)](https://42malaga.com)
 
-- 🌱 I’m currently learning **C Programming** and **CiberSecurity**
+Software Engineering student in the final stage of the **Common Core curriculum at 42 Málaga (Fundación Telefónica)**. Passionate about low-level systems programming, network infrastructure, and full-stack web application development.
 
-## My 42 Projects
-[![Libft](imgs/libftm.png)](https://github.com/samperez-s/42-cursus/tree/main/libft)
-[![Born2beroot](imgs/born2berootm.png)](https://github.com/gemartin99/Born2beroot-Tutorial)
-[![Ft_printf](imgs/ft_printfn.png)](https://github.com/samperez-s/42-cursus/tree/main/ft_printf)
-[![Get_Next_Line](imgs/get_next_linee.png)](https://github.com/samperez-s/42-cursus/tree/main/get_next_line)
-[![Push_Swap](imgs/push_swape.png)](https://github.com/samperez-s/push_swap)
+---
 
-- 📫 How to reach me **samuelperezsantiago12@gmail.com**
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/samuel-perez-santiago/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samuel-perez-santiago/" height="30" width="40" /></a>
-<a href="https://instagram.com/samuu_ps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samuu_ps" height="30" width="40" /></a>
-</p>
+- 🎓 **Education:** 42 Málaga Common Core • Higher VET in Microcomputer Systems & Networks (IES Fuengirola 1)
+- 📜 **Certifications:** Cambridge C1 Advanced English • Google Cybersecurity Professional Certificate
+- 🛠️ **Tech Stack:** C, C++, Java / Spring Boot, React, Docker, PostgreSQL, Linux / UNIX Systems, WebSockets, Git
+- 💼 **Background:** Experience in commercial customer service and sales management, blending strong soft skills with deep technical discipline
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+---
 
-## My goals
-- [x] [Technician in Microcomputer Systems and Networks](https://www.todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/sistemas-microniformaticos-redes.html)  
-- [ ] [Junior CiberSecurity Analist Career Path](https://www.netacad.com/career-paths/cybersecurity?courseLang=en-US)  
+## 💻 42 School Projects
+
+| Project | Stack | Key Skills & Competencies Learned |
+| :--- | :--- | :--- |
+| **Libft** | C | Standard C library reimplementation, dynamic memory management, data structures (linked lists). |
+| **get_next_line** | C | Buffer management, static variables, file descriptor I/O operations. |
+| **ft_printf** | C | Variadic functions, string formatting parsing, system call handling. |
+| **push_swap** | C | Algorithm optimization, stack manipulation, time/space complexity ($O(n \log n)$ logic). |
+| **so_long** | C, MLX | 2D game engine basics, event handling, texture rendering, map validation. |
+| **pipex** | C, UNIX | Inter-process communication (IPC), Unix pipes, process creation (`fork`, `execve`), redirection. |
+| **minishell** | C, UNIX | Shell architecture implementation, AST parsing, signal handling, process lifecycle management. |
+| **Philosophers** | C, POSIX Threads | Multithreading concurrency, mutex locks, race condition prevention, deadlock handling. |
+| **cub3D** | C, MLX | 3D Raycasting engine, basic trigonometry, texture mapping, DDA algorithms. |
+| **NetPractice** | Networking | IPv4 addressing, subnetting, CIDR notation, routing tables, TCP/IP network topology. |
+| **ft_irc** | C++98 | Non-blocking socket I/O multiplexing (`poll`/`epoll`), IRC protocol implementation, client handling. |
+| **C++ Modules (00-09)** | C++98 | Object-Oriented Programming (OOP), Canonical Form, inheritance, polymorphism, templates, STL. |
+| **Inception** | Docker, DevOps | Infrastructure as Code, multi-container orchestration with Docker Compose, Nginx, MariaDB, Vault. |
+| **ft_transcendence** | Spring Boot, React | Full-stack architecture, microservices, WebSockets real-time interaction, Single Page Applications (SPA). |
+
+---
+
+## 📫 Connect with Me
+
+- ✉️ **Email:** [samuelperezsantiago12@gmail.com](mailto:samuelperezsantiago12@gmail.com)
+- 🐙 **GitHub:** [github.com/samperezs](https://github.com/samperezs)
