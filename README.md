@@ -12,8 +12,6 @@
 [![Get_Next_Line](imgs/get_next_linee.png)](https://github.com/samperez-s/42-cursus/tree/main/get_next_line)
 [![Push_Swap](imgs/push_swape.png)](https://github.com/samperez-s/push_swap)
 
-👨‍💻 All of my projects are available [here](https://github.com/samperez-s/42-cursus)
-
 - 📫 How to reach me **samuelperezsantiago12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
