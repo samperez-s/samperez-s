@@ -21,20 +21,19 @@ Software Engineering student in the final stage of the **Common Core curriculum 
 
 | Project | Stack | Key Skills & Competencies Learned |
 | :--- | :--- | :--- |
-| **Libft** | C | Standard C library reimplementation, dynamic memory management, data structures (linked lists). |
-| **get_next_line** | C | Buffer management, static variables, file descriptor I/O operations. |
-| **ft_printf** | C | Variadic functions, string formatting parsing, system call handling. |
-| **push_swap** | C | Algorithm optimization, stack manipulation, time/space complexity ($O(n \log n)$ logic). |
-| **so_long** | C, MLX | 2D game engine basics, event handling, texture rendering, map validation. |
-| **pipex** | C, UNIX | Inter-process communication (IPC), Unix pipes, process creation (`fork`, `execve`), redirection. |
-| **minishell** | C, UNIX | Shell architecture implementation, AST parsing, signal handling, process lifecycle management. |
-| **Philosophers** | C, POSIX Threads | Multithreading concurrency, mutex locks, race condition prevention, deadlock handling. |
-| **cub3D** | C, MLX | 3D Raycasting engine, basic trigonometry, texture mapping, DDA algorithms. |
-| **NetPractice** | Networking | IPv4 addressing, subnetting, CIDR notation, routing tables, TCP/IP network topology. |
-| **ft_irc** | C++98 | Non-blocking socket I/O multiplexing (`poll`/`epoll`), IRC protocol implementation, client handling. |
-| **C++ Modules (00-09)** | C++98 | Object-Oriented Programming (OOP), Canonical Form, inheritance, polymorphism, templates, STL. |
-| **Inception** | Docker, DevOps | Infrastructure as Code, multi-container orchestration with Docker Compose, Nginx, MariaDB, Vault. |
-| **ft_transcendence** | Spring Boot, React | Full-stack architecture, microservices, WebSockets real-time interaction, Single Page Applications (SPA). |
+| [**Libft**](https://github.com/samperez-s/Libft/tree/main) | C | Standard C library reimplementation, dynamic memory management, data structures (linked lists). |
+| [**get_next_line**](https://github.com/samperez-s/get_next_line) | C | Buffer management, static variables, file descriptor I/O operations. |
+| [**ft_printf**](https://github.com/samperez-s/ft_printf) | C | Variadic functions, string formatting parsing, system call handling. |
+| [**push_swap**](https://github.com/samperez-s/push_swap) | C | Algorithm optimization, stack manipulation, time/space complexity ($O(n \log n)$ logic). |
+| [**so_long**](https://github.com/samperez-s/so_long) | C, MLX | 2D game engine basics, event handling, texture rendering, map validation. |
+| [**pipex**](https://github.com/samperez-s/pipex) | C, UNIX | Inter-process communication (IPC), Unix pipes, process creation (`fork`, `execve`), redirection. |
+| [**minishell**](https://github.com/samperez-s/minishell) | C, UNIX | Shell architecture implementation, AST parsing, signal handling, process lifecycle management. |
+| [**Philosophers**](https://github.com/samperez-s/Philosophers) | C, POSIX Threads | Multithreading concurrency, mutex locks, race condition prevention, deadlock handling. |
+| [**cub3D**](https://github.com/samperez-s/cub3D) | C, MLX | 3D Raycasting engine, basic trigonometry, texture mapping, DDA algorithms. |
+| [**ft_irc**](https://github.com/samperez-s/ft_irc) | C++98 | Non-blocking socket I/O multiplexing (`poll`/`epoll`), IRC protocol implementation, client handling. |
+| [**C++ Modules (00-09)**](https://github.com/samperez-s/CPP-Modules) | C++98 | Object-Oriented Programming (OOP), Canonical Form, inheritance, polymorphism, templates, STL. |
+| [**Inception**](https://github.com/samperez-s/Inception) | Docker, DevOps | Infrastructure as Code, multi-container orchestration with Docker Compose, Nginx, MariaDB, Vault. |
+| [**ft_transcendence**](https://github.com/daniego2/ft_trascendence) | Spring Boot, React | Full-stack architecture, microservices, WebSockets real-time interaction, Single Page Applications (SPA). |
 
 ---
 
