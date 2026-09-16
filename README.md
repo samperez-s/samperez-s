@@ -6,13 +6,13 @@
 - 🌱 I’m currently learning **C Programming** and **CiberSecurity**
 
 ## My 42 Projects
-[![Libft](imgs/libftm.png)](https://github.com/samperez-42/42-cursus/tree/main/libft)
+[![Libft](imgs/libftm.png)](https://github.com/samperez-s/42-cursus/tree/main/libft)
 [![Born2beroot](imgs/born2berootm.png)](https://github.com/gemartin99/Born2beroot-Tutorial)
-[![Ft_printf](imgs/ft_printfn.png)](https://github.com/samperez-42/42-cursus/tree/main/ft_printf)
-[![Get_Next_Line](imgs/get_next_linee.png)](https://github.com/samperez-42/42-cursus/tree/main/get_next_line)
-[![Push_Swap](imgs/push_swape.png)](https://github.com/samperez-42/push_swap)
+[![Ft_printf](imgs/ft_printfn.png)](https://github.com/samperez-s/42-cursus/tree/main/ft_printf)
+[![Get_Next_Line](imgs/get_next_linee.png)](https://github.com/samperez-s/42-cursus/tree/main/get_next_line)
+[![Push_Swap](imgs/push_swape.png)](https://github.com/samperez-s/push_swap)
 
-👨‍💻 All of my projects are available [here](https://github.com/samperez-42/42-cursus)
+👨‍💻 All of my projects are available [here](https://github.com/samperez-s/42-cursus)
 
 - 📫 How to reach me **samuelperezsantiago12@gmail.com**
 
